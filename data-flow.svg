@@ -17,7 +17,7 @@
     </filter>
   </defs>
 
-  <rect width="900" height="420" fill="url(#bgGlow)"/>
+  <rect x="3" y="3" width="894" height="414" rx="22" ry="22" fill="url(#bgGlow)" stroke="#f2b90c" stroke-opacity="0.35" stroke-width="1.5"/>
 
   <text x="450" y="42" text-anchor="middle" fill="#f2b90c" font-size="21" font-weight="700" letter-spacing="1.5">
     APIKUR RAHAMAN MOLLA :: DATA PIPELINE
