@@ -10,6 +10,8 @@
 
 </div>
 
+
+![Data Pipeline](https://raw.githubusercontent.com/ApikurRahamanMolla/ApikurRahamanMolla/main/data-flow.svg)
 ---
 
 
